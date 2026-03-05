@@ -1,0 +1,12 @@
+E:\Honeywell\GES_IdeaSystem\GES_IdeaSystem.Domain\bin\Debug\net8.0\GES_IdeaSystem.Domain.deps.json
+E:\Honeywell\GES_IdeaSystem\GES_IdeaSystem.Domain\bin\Debug\net8.0\GES_IdeaSystem.Domain.dll
+E:\Honeywell\GES_IdeaSystem\GES_IdeaSystem.Domain\bin\Debug\net8.0\GES_IdeaSystem.Domain.pdb
+E:\Honeywell\GES_IdeaSystem\GES_IdeaSystem.Domain\obj\Debug\net8.0\GES_IdeaSystem.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\Honeywell\GES_IdeaSystem\GES_IdeaSystem.Domain\obj\Debug\net8.0\GES_IdeaSystem.Domain.AssemblyInfoInputs.cache
+E:\Honeywell\GES_IdeaSystem\GES_IdeaSystem.Domain\obj\Debug\net8.0\GES_IdeaSystem.Domain.AssemblyInfo.cs
+E:\Honeywell\GES_IdeaSystem\GES_IdeaSystem.Domain\obj\Debug\net8.0\GES_IdeaSystem.Domain.csproj.CoreCompileInputs.cache
+E:\Honeywell\GES_IdeaSystem\GES_IdeaSystem.Domain\obj\Debug\net8.0\GES_IdeaSystem.Domain.dll
+E:\Honeywell\GES_IdeaSystem\GES_IdeaSystem.Domain\obj\Debug\net8.0\refint\GES_IdeaSystem.Domain.dll
+E:\Honeywell\GES_IdeaSystem\GES_IdeaSystem.Domain\obj\Debug\net8.0\GES_IdeaSystem.Domain.pdb
+E:\Honeywell\GES_IdeaSystem\GES_IdeaSystem.Domain\obj\Debug\net8.0\ref\GES_IdeaSystem.Domain.dll
+E:\Honeywell\GES_IdeaSystem\GES_IdeaSystem.Domain\obj\Debug\net8.0\GES_IdeaSystem.Domain.sourcelink.json

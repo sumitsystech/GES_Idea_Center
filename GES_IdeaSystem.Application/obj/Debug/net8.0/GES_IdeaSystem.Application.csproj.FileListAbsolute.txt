@@ -1,0 +1,16 @@
+E:\Honeywell\GES_IdeaSystem\GES_IdeaSystem.Application\obj\Debug\net8.0\GES_IdeaSystem.Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\Honeywell\GES_IdeaSystem\GES_IdeaSystem.Application\obj\Debug\net8.0\GES_IdeaSystem.Application.AssemblyInfoInputs.cache
+E:\Honeywell\GES_IdeaSystem\GES_IdeaSystem.Application\obj\Debug\net8.0\GES_IdeaSystem.Application.AssemblyInfo.cs
+E:\Honeywell\GES_IdeaSystem\GES_IdeaSystem.Application\obj\Debug\net8.0\GES_IdeaSystem.Application.csproj.CoreCompileInputs.cache
+E:\Honeywell\GES_IdeaSystem\GES_IdeaSystem.Application\bin\Debug\net8.0\GES_IdeaSystem.Application.deps.json
+E:\Honeywell\GES_IdeaSystem\GES_IdeaSystem.Application\bin\Debug\net8.0\GES_IdeaSystem.Application.dll
+E:\Honeywell\GES_IdeaSystem\GES_IdeaSystem.Application\bin\Debug\net8.0\GES_IdeaSystem.Application.pdb
+E:\Honeywell\GES_IdeaSystem\GES_IdeaSystem.Application\bin\Debug\net8.0\GES_IdeaSystem.Domain.dll
+E:\Honeywell\GES_IdeaSystem\GES_IdeaSystem.Application\bin\Debug\net8.0\GES_IdeaSystem.Domain.pdb
+E:\Honeywell\GES_IdeaSystem\GES_IdeaSystem.Application\obj\Debug\net8.0\GES_IdeaSystem.Application.csproj.AssemblyReference.cache
+E:\Honeywell\GES_IdeaSystem\GES_IdeaSystem.Application\obj\Debug\net8.0\GES_Idea.7B57B2D6.Up2Date
+E:\Honeywell\GES_IdeaSystem\GES_IdeaSystem.Application\obj\Debug\net8.0\GES_IdeaSystem.Application.dll
+E:\Honeywell\GES_IdeaSystem\GES_IdeaSystem.Application\obj\Debug\net8.0\refint\GES_IdeaSystem.Application.dll
+E:\Honeywell\GES_IdeaSystem\GES_IdeaSystem.Application\obj\Debug\net8.0\GES_IdeaSystem.Application.pdb
+E:\Honeywell\GES_IdeaSystem\GES_IdeaSystem.Application\obj\Debug\net8.0\ref\GES_IdeaSystem.Application.dll
+E:\Honeywell\GES_IdeaSystem\GES_IdeaSystem.Application\obj\Debug\net8.0\GES_IdeaSystem.Application.sourcelink.json

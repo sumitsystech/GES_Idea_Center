@@ -1,0 +1,6 @@
+@GES_IdeaSystem_HostAddress = http://localhost:5267
+
+GET {{GES_IdeaSystem_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

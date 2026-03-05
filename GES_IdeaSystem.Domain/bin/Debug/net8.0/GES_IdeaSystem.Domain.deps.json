@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "GES_IdeaSystem.Domain/1.0.0": {
+        "runtime": {
+          "GES_IdeaSystem.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GES_IdeaSystem.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
